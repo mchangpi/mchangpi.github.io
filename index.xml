@@ -1,20 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Milton Diary</title>
-    <link>http://example.org/</link>
+    <link>mchangpi.github.io/</link>
     <description>Recent content on Milton Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Sep 2021 21:20:54 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Milton First Diary</title>
-      <link>http://example.org/posts/milton-first-diary/</link>
-      <pubDate>Sun, 26 Sep 2021 21:20:54 +0800</pubDate>
-      
-      <guid>http://example.org/posts/milton-first-diary/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sun, 26 Sep 2021 21:20:54 +0800</lastBuildDate>
+    
+        <atom:link href="mchangpi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Milton First Diary</title>
+        <link>mchangpi.github.io/posts/milton-first-diary/</link>
+        <pubDate>Sun, 26 Sep 2021 21:20:54 +0800</pubDate>
+        
+        <guid>mchangpi.github.io/posts/milton-first-diary/</guid>
+        <description>Milton Diary mchangpi.github.io/posts/milton-first-diary/ -- mchangpi.github.io/posts/milton-first-diary/ - </description>
+        </item>
+    
     
   </channel>
-</rss>
+</rss> 
